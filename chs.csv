@@ -1263,9 +1263,9 @@
 1262	创新能力达到——<need>。
 1263	东京传奇
 1264	总体声誉达到——<need>。
-1265	里程碑
-1266	已达到的里程碑
-1267	达到新里程碑
+1265	成就
+1266	已达到的成就
+1267	达到新成就
 1268	已达到
 1269	跟踪你的进度
 1270	继续之前的游戏
@@ -2722,12 +2722,12 @@
 2721	公司目前没有申请人。简历列表每月更新。
 2722	返回
 2723	在 CEO 模式下，将公司等级提升到 <need>。
-2724	控制向导
+2724	茁壮成长
 2725	建立公司部门
-2726	建造者
-2727	让部门 100% 投入工作。
-2728	完美主义者
-2729	成功的公司
+2726	建筑师
+2727	让部门以 100% 效率投入工作。
+2728	完美主义
+2729	商业巨鳄
 2730	在自己的公司获得 {need} 的月利润。
 2731	在自由模式下创建自己的公司
 2732	创始人
@@ -3040,11 +3040,11 @@
 3039	此外，还公布了东京最具影响力百人榜。
 3040	如果你努力提高自己的声誉，增加自己的财富，总有一天你也会上榜。
 3041	你现在位于第 <number_string>！恭喜你！
-3042	公司
+3042	巨企
 3043	公司市值达到 {need}（CEO 模式）。
-3044	成功的领导者
+3044	领导有方
 3045	公司年利润达到 {need}（CEO 模式）。
-3046	利润表现
+3046	名列前茅
 3047	在你的领导下，公司应成为年利润前 <need> 的公司之一。
 3048	资产升值
 3049	在你的领导下，公司应成为市值前 <need> 的公司之一。
@@ -3172,9 +3172,9 @@
 3171	向慈善机构捐赠 {need}。
 3172	地产大亨
 3173	拥有 <need> 套房地产。
-3174	汽车爱好者
+3174	汽车迷
 3175	拥有 <need> 辆汽车。
-3176	转向信息技术
+3176	产业升级
 3177	公司 IT 部门的工作效率应达到 <need>%。
 3178	财务效益
 3179	公司财务部门的工作效率应达到 <need>%。
@@ -3182,7 +3182,7 @@
 3181	公司人力资源部门的工作效率应达到 <need>%。
 3182	努力工作
 3183	公司营运部门的工作效率应达到 <need>%。
-3184	恼人的广告
+3184	广而告之
 3185	公司销售与市场营销部门的工作效率应达到 <need>%。
 3186	带我去月球
 3187	公司研发部门的工作效率应达到 <need>%。
@@ -3194,15 +3194,15 @@
 3193	拒绝 <need> 位应聘者。
 3194	清白企业
 3195	在 <need> 年内未卷入丑闻或诉讼。
-3196	稳健的投资组合
+3196	稳健投资
 3197	拥有投资组合中任何公司 <need> 的股票（不含你创建的公司）。
-3198	最受欢迎的公司
+3198	幕后大手
 3199	拥有任何公司 <need>% 的股份（不含你创建的公司）。
 3200	泡沫的本质
 3201	每月获得 {need} 的租金收入。
 3202	钱能生钱
 3203	从多家公司获得共计 {need} 的股息。
-3204	休息很重要
+3204	好好休息
 3205	度假
 3206	爱猫人士
 3207	拥有全套猫咪模型
@@ -3218,9 +3218,9 @@
 3217	参观寺庙 <need> 次。
 3218	赌博成瘾
 3219	玩弹珠机 <need> 次。
-3220	打破年龄刻板印象
+3220	童心未泯
 3221	去游戏厅 <need> 次。
-3222	只有马
+3222	只爱马儿
 3223	去马场 <need> 次。
 3224	韩语翻译：
 3225	管理
@@ -3480,13 +3480,13 @@
 3479	你需要 <table_id> 次胜利才能在此桌进行游戏。
 3480	今晚看你的比赛简直就是一场策略大师课！让我们庆祝这场巨大的胜利吧。
 3481	看来你已经达到了最高牌技水平，现在所有牌桌都向你敞开大门！我从未怀疑过你。
-3482	钓鱼爱好者
+3482	钓鱼佬
 3483	钓鱼 <need> 次。
 3484	钓鱼大师
 3485	钓 <need> 条鱼。
-3486	钓竿终结者
+3486	最强钓竿
 3487	将钓竿升到最高级。
-3488	鱼类收藏家
+3488	鱼儿藏家
 3489	收集 <need>% 的鱼类。
 3490	秘密牌手
 3491	参加秘密牌局 <need> 次。
@@ -3956,7 +3956,7 @@
 3955	持有住宅
 3956	持有商业地产
 3957	地域
-3958	整体影响
+3958	整体影响力
 3959	头发
 3960	眼睛
 3961	嘴巴
@@ -3972,7 +3972,7 @@
 3971	将您在东京房地产市场的影响力提升至 <need>%。
 3972	我买得起
 3973	一天内购买 10 处房产。
-3974	更大的利润在等待
+3974	好日子还在后头呢
 3975	投资商业房地产开发 <need> 次。
 3976	赛马场
 3977	外出
@@ -3998,7 +3998,7 @@
 3997	照片
 3998	头部
 3999	身体
-4000	简介
+4000	特质
 4001	龙
 4002	鹰
 4003	富
@@ -4029,16 +4029,16 @@
 4028	金汤匙
 4029	你生活优渥，思虑较少。市场这东西……很难。
 4030	优渥的生活
-4031	真正的商人
+4031	绝对商人
 4032	钱要生钱！只要股票。
-4033	除 {money_amount} 外，所有现金都投入股票
+4033	所有现金都投入股票，只留最多 {money_amount}
 4034	书呆子
 4035	你学习过，很努力。所以现在你回避人群。
 4036	当地名人
 4037	人们都认识你的脸。一个坏谣言就能让你完蛋。
 4038	公众形象下降会大幅增加压力。
 4039	酒鬼
-4040	压力来得很快。下一轮酒也一样。
+4040	压力来得快去得快。下一轮酒也一样。
 4041	去酒吧能减轻更多压力
 4042	僧侣出身
 4043	你能在混乱中保持平静，但没有多少钱可以花。
@@ -4055,10 +4055,10 @@
 4054	每月利润
 4055	你有一只猫。它很贵，但它值得。
 4056	猫有时有助于减轻压力。
-4057	忠诚的兄弟
+4057	两肋插刀
 4058	你身边有一个奇怪但忠诚的朋友。
 4059	特别的朋友
-4060	黑帮关系
+4060	黑白两道
 4061	他们会支持你。但要付出代价。
 4062	可联系黑帮
 4063	司机
@@ -4068,7 +4068,7 @@
 4067	页
 4068	生日
 4069	邮票
-4070	框架
+4070	边框
 4071	所有细节都正确吗？
 4072	东京证券交易所
 4073	完成
@@ -4136,19 +4136,155 @@
 4135	社交
 4136	休闲
 4137	故事
-4138	要解锁它，您需要达到一个里程碑：
+4138	要解锁它，您需要达到一个成就：
 4139	您有 <pachinkoballs> 个弹珠
 4140	你想在这里玩吗？
 4141	没有 <balls>，你不能在这里玩。
 4142	根据现行规定，为防止赌博成瘾，禁止一次性购买超过 50 个弹珠。
 4143	知道如何以更高的价格出售弹珠。
 4144	你不能擅自离开这家公司。
-4145	有些里程碑将无法实现。
+4145	有些成就将无法实现。
 4146	开始比赛
 4147	您的赌注
-4148	神秘的内部人士
+4148	神秘人
 4149	与义郎交易 <need> 次。
 4150	如龙
 4151	与黑帮做生意
 4152	随机
-4152	全部卖出
+4153	全部卖出
+4154	Luck	Удача					
+4155	Big	Велика					
+4156	Small	Мала					
+4157	No luck	Відсутня					
+4158	<companyname> has approved a <size>:1 stock split to improve liquidity and attract investors.	<companyname> затвердив спліт <size>:1 для підвищення ліквідності та залучення інвесторів.	<companyname>は流動性向上のため、<size>対1の株式分割を承認。	<companyname>은(는) 유동성 확보를 위해 <size>:1 주식 분할을 승인했습니다.			
+4159	Strong performance leads <companyname> to initiate a <size>:1 stock split.	Через стабільне зростання <companyname> оголошує спліт <size>:1.	好調な業績を受け、<companyname>が<size>対1の株式分割を実施。	실적 호조로 <companyname>이(가) <size>:1 분할을 단행합니다.			
+4160	<companyname> shares to be split <size>:1. Trading continues without interruption.	Акції <companyname> будуть розділені у співвідношенні <size>:1. Торги тривають.	<companyname>の株式が<size>対1で分割。取引は継続。	<companyname> 주식이 <size>:1로 분할됩니다. 거래는 계속됩니다.			
+4161	Facing weak demand, <companyname> enacts a 1:<size> reverse split.	Через низький попит <companyname> проводить зворотній спліт 1:<size>.	需要低下を受け、<companyname>が1対<size>の株式併合を実施。	수요 감소로 <companyname>이(가) 1:<size> 액면병합을 시행합니다.			
+4162	<companyname> consolidates its shares 1:<size> amid declining stock price.	Через падіння ціни акцій <companyname> об'єднує акції у співвідношенні 1:<size>.	株価下落に伴い、<companyname>が1対<size>で株式併合。	주가 하락으로 <companyname>이(가) 1:<size> 병합을 단행합니다.			
+4163	Board approves 1:<size> reverse split for <companyname> to stabilize share price.	Рада директорів <companyname> затвердила реверс 1:<size> для стабілізації ціни.	株価安定を目的に、<companyname>が1対<size>の併合を承認。	주가 안정을 위해 <companyname>이(가) 1:<size> 액면병합을 승인했			
+4164	The market responded with optimism as trading volume increased.	Ринок відреагував позитивно - обсяги торгів зросли.	市場は好意的に反応し、取引量が増加。	시장은 긍정적으로 반응했고 거래량이 증가했습니다.			
+4165	Investors showed concern as the stock faced selling pressure.	Інвестори насторожені - акції компанії починають активніше продавати.	投資家は警戒を示し、株は売り圧力に直面。	투자자들은 우려를 나타내며 주식은 매도 압력을 받았습니다.			
+4166	The reverse split allows <companyname> to remain listed on the exchange.	Реверс спліт дозволяє <companyname> залишатися в біржовому списку.	株式併合により、<companyname>は上場維持を可能にしました。	병합을 통해 <companyname>은(는) 상장 유지에 성공했습니다.			
+4167	Your shares have been multiplied by <size>. Each one is now cheaper, but your total investment value remains the same.	Кількість ваших акцій помножено на <size>. Ціна однієї зменшилася, але загальна вартість не змінилася.	あなたの株式数が<size>倍になりました。1株あたりの価格は下がりましたが、総投資額は変わりません。	보유 주식 수가 <size>배로 늘었습니다. 주당 가격은 낮아졌지만, 전체 가치는 동일합니다.			
+4168	Your shares have been reduced by a factor of <size>. Each one is now worth more, but the total value stays the same.	Кількість ваших акцій зменшено у <size> разів. Ціна однієї зросла, але загальна вартість не змінилася.	保有株式数が<size>分の1になりました。1株あたりの価格は上昇しましたが、総額は変わりません。	보유 주식 수가 <size>분의 1로 줄었습니다. 주당 가격은 올랐지만 전체 가치는 동일합니다.			
+4169	This is a project by <company_project_name>, a publicly traded company. Its performance may influence the company's stock price and earnings.	Це проєкт компанії <company_project_name>, яка представлена на біржі. Його успішність може вплинути на вартість акцій та прибутки компанії.	これは上場企業<company_project_name>によるプロジェクトです。その成果は株価や収益に影響を与える可能性があります。	이 프로젝트는 상장사인 <company_project_name>에서 진행 중입니다. 결과에 따라 주가와 수익에 영향을 줄 수 있습니다.			
+4170	Грошами тут вже не допомогти.	Грошами тут вже не допомогти.					
+4171	Factories, machines, vehicles, and big infrastructure projects like roads or railways.	Заводи, машини, транспорт і великі проєкти - дороги, тунелі, рейки.	工場、機械、車両、大規模なインフラ整備（道路や鉄道など）。	공장, 기계, 차량, 도로나 철도 같은 인프라 사업.			
+4172	Electronics, computers, gadgets, and everything built with circuits and screens.	Електроніка, комп'ютери, ґаджети, усе зі схемами та екранами.	電子機器、コンピューター、ガジェット、画面と回路の世界。	전자제품, 컴퓨터, 기기 등 모든 회로와 화면의 것들.			
+4173	Medicine production, health supplies, and chemical labs.	Виробництво ліків, аптечні товари, лабораторії.	薬の製造、医療用品、化学実験室など。	의약품 생산, 약국용 제품, 실험실 관련.			
+4174	Banks, investments, offices, and business services.	Банки, інвестиції, офіси, ділові послуги.	銀行、投資、オフィス、ビジネスサービス。	은행, 투자, 사무실, 비즈니스 서비스.			
+4175	Farming, fishing, food processing, and everyday goods - from rice fields to ramen cups.	Сільське господарство, рибальство, переробка продуктів і товари щоденного вжитку - від рисових полів до локшини у стаканчику.	農業、漁業、食品加工、そして日常品まで。田んぼからカップラーメンまで。	농업, 어업, 식품 가공, 일상용품까지 - 논밭에서 컵라면까지.			
+4176	Arcades, pachinko halls, manga, TV, clubs, and fun stuff in the city.	Ігрові автомати, пачінко, манґа, телебачення, клуби.	アーケード、パチンコ、マンガ、テレビ、ナイトクラブなど。	오락실, 파칭코, 만화, TV, 클럽 등 즐거운 것들.			
+4177	Coal, oil, power plants, and anything that keeps lights on.	Вугілля, нафта, електрика - усе, що тримає світло увімкненим.	石炭、石油、電力など、明かりを守るもの。	석탄, 석유, 전기 - 불을 밝히는 모든 것.			
+4178	Phones, TV shows, signal networks - everything that connects and entertains.	Телефони, телешоу, сигнальні мережі - все, що з'єднує і розважає.	電話、テレビ番組、通信網──つなぎ、楽しませるものすべて。	전화, TV 쇼, 통신망 - 사람들을 연결하고 즐겁게 하는 것들.			
+4179	City Hotel						
+4180	Office Building						
+4181	Electronics Workshop						
+4182	Cable Network						
+4183	Assembly Plant						
+4184	Cafe Bar						
+4185	Road Construction						
+4186	Manga Shop						
+4187	TV Studio						
+4188	Night Club						
+4189	Shopping Arcade						
+4190	Cold Pills						
+4191	Vitamin Line						
+4192	Pill Factory						
+4193	Medical Depot						
+4194	Research Lab						
+4195	Syrup Bottling						
+4196	Painkiller Line						
+4197	Herb Lab						
+4198	Boredom Pills						
+4199	Hangover Pills						
+4200	Placebo Plus						
+4201	Herb Dryer						
+4202	Processing Plant						
+4203	Bank Branch						
+4204	Payroll Office						
+4205	Credit Union						
+4206	Loan Agency						
+4207	Trading Room						
+4208	Quick Money						
+4209	Bond Office						
+4210	Tax Advisor						
+4211	Safe Deposit						
+4212	Small Loan Desk						
+4213	Pocket Savings Box						
+4214	Currency Check						
+4215	Tax Office						
+4216	Coin Sorting						
+4217	Monopoly Advisor						
+4218	Gas Plant						
+4219	Diesel Yard						
+4220	Power Substation						
+4221	Oil Pump						
+4222	Coal Depot						
+4223	Power Lines						
+4224	Fuel Trucks						
+4225	Backup Generator						
+4226	Eternal Flame						
+4227	Silent Generator						
+4228	Fuel Station						
+4229	Coal Plant						
+4230	Gas Turbine						
+4231	Nuclear Plant						
+4232	Battery Unit						
+4233	Hydro Station						
+4234	Tea Farm						
+4235	Fish Port						
+4236	Seaweed Dryer						
+4237	Fruit Orchard						
+4238	Tofu Plant						
+4239	Snack Factory						
+4240	Rice Field						
+4241	Broadcast Tower						
+4242	Phone Line						
+4243	TV Studio						
+4244	Show Floor						
+4245	Radio Booth						
+4246	Drama TV						
+4247	Late Night Show						
+4248	Dance Contest						
+4249	Dating Program						
+4250	Idol Search						
+4251	Talent Show						
+4252	Call-In Line						
+4253	Radio Drama						
+4254	Radio Advice						
+4255	Radio Mix						
+4256	I've got this weird method, might help the outcome?	тип 0					
+4257	Want me to tweak the build plan a bit? I've got an idea.						
+4258	I simplified the plan on a napkin. Want to use it?						
+4259	If you're fine with modest returns, I can make it very reliable.	тип 1					
+4260	I can optimize the internal logic.						
+4261	It'll be done faster, and safer.						
+4262	Trust me, I can make it trend. Big if true.	тип 2					
+4263	I know a guy at the radio. Want to make some noise?						
+4264	How about I get this on local TV? My buddy can run a spot.						
+4265	Don't thank me. Just follow my lead.	тип 3					
+4266	We can polish every corner. No shortcuts.						
+4267	Quality over speed.						
+4268	I-I think we should double-check everything…?	тип 4					
+4269	I'll try not to ruin it...						
+4270	I could help keep the process steady... if you want.						
+4271	The data says go bold. You listening?	тип 5					
+4272	If I were you, I'd risk it for better returns.						
+4273	I can reduce the dumb mistakes if you let me fix things.						
+4274	Want this to look amazing? Let me spread it around.	тип 6					
+4275	I'll call someone important. You're fine with less cut, right?						
+4276	I can bring in a few more backers, no problem.						
+4277	If this works, everyone will know your name.	тип 7					
+4278	Let's push the boundaries. It'll matter in the industry.						
+4279	A safe win won't get attention. Let's aim higher.						
+4280	Expectations	Очікування					
+4281	Sabotage	Саботаж					
+4282	Additional investment	Додаткова інвестиція					
+4283	Project info	Проект					
+4284	Do you want to adjust this investment for {_price}? You can only do this once.						
+4285	Days Until Return						
+4286	Profit Potential						
+4287	Market Reaction						
+4288	A 'helpful' contact might make things worse. Use with caution.						
+4289	You can no longer impact this investment.	Ви більше не можете впливати на цю інвестицію.		
