@@ -4152,139 +4152,139 @@
 4151	与黑帮做生意
 4152	随机
 4153	全部卖出
-4154	Luck	Удача					
-4155	Big	Велика					
-4156	Small	Мала					
-4157	No luck	Відсутня					
-4158	<companyname> has approved a <size>:1 stock split to improve liquidity and attract investors.	<companyname> затвердив спліт <size>:1 для підвищення ліквідності та залучення інвесторів.	<companyname>は流動性向上のため、<size>対1の株式分割を承認。	<companyname>은(는) 유동성 확보를 위해 <size>:1 주식 분할을 승인했습니다.			
-4159	Strong performance leads <companyname> to initiate a <size>:1 stock split.	Через стабільне зростання <companyname> оголошує спліт <size>:1.	好調な業績を受け、<companyname>が<size>対1の株式分割を実施。	실적 호조로 <companyname>이(가) <size>:1 분할을 단행합니다.			
-4160	<companyname> shares to be split <size>:1. Trading continues without interruption.	Акції <companyname> будуть розділені у співвідношенні <size>:1. Торги тривають.	<companyname>の株式が<size>対1で分割。取引は継続。	<companyname> 주식이 <size>:1로 분할됩니다. 거래는 계속됩니다.			
-4161	Facing weak demand, <companyname> enacts a 1:<size> reverse split.	Через низький попит <companyname> проводить зворотній спліт 1:<size>.	需要低下を受け、<companyname>が1対<size>の株式併合を実施。	수요 감소로 <companyname>이(가) 1:<size> 액면병합을 시행합니다.			
-4162	<companyname> consolidates its shares 1:<size> amid declining stock price.	Через падіння ціни акцій <companyname> об'єднує акції у співвідношенні 1:<size>.	株価下落に伴い、<companyname>が1対<size>で株式併合。	주가 하락으로 <companyname>이(가) 1:<size> 병합을 단행합니다.			
-4163	Board approves 1:<size> reverse split for <companyname> to stabilize share price.	Рада директорів <companyname> затвердила реверс 1:<size> для стабілізації ціни.	株価安定を目的に、<companyname>が1対<size>の併合を承認。	주가 안정을 위해 <companyname>이(가) 1:<size> 액면병합을 승인했			
-4164	The market responded with optimism as trading volume increased.	Ринок відреагував позитивно - обсяги торгів зросли.	市場は好意的に反応し、取引量が増加。	시장은 긍정적으로 반응했고 거래량이 증가했습니다.			
-4165	Investors showed concern as the stock faced selling pressure.	Інвестори насторожені - акції компанії починають активніше продавати.	投資家は警戒を示し、株は売り圧力に直面。	투자자들은 우려를 나타내며 주식은 매도 압력을 받았습니다.			
-4166	The reverse split allows <companyname> to remain listed on the exchange.	Реверс спліт дозволяє <companyname> залишатися в біржовому списку.	株式併合により、<companyname>は上場維持を可能にしました。	병합을 통해 <companyname>은(는) 상장 유지에 성공했습니다.			
-4167	Your shares have been multiplied by <size>. Each one is now cheaper, but your total investment value remains the same.	Кількість ваших акцій помножено на <size>. Ціна однієї зменшилася, але загальна вартість не змінилася.	あなたの株式数が<size>倍になりました。1株あたりの価格は下がりましたが、総投資額は変わりません。	보유 주식 수가 <size>배로 늘었습니다. 주당 가격은 낮아졌지만, 전체 가치는 동일합니다.			
-4168	Your shares have been reduced by a factor of <size>. Each one is now worth more, but the total value stays the same.	Кількість ваших акцій зменшено у <size> разів. Ціна однієї зросла, але загальна вартість не змінилася.	保有株式数が<size>分の1になりました。1株あたりの価格は上昇しましたが、総額は変わりません。	보유 주식 수가 <size>분의 1로 줄었습니다. 주당 가격은 올랐지만 전체 가치는 동일합니다.			
-4169	This is a project by <company_project_name>, a publicly traded company. Its performance may influence the company's stock price and earnings.	Це проєкт компанії <company_project_name>, яка представлена на біржі. Його успішність може вплинути на вартість акцій та прибутки компанії.	これは上場企業<company_project_name>によるプロジェクトです。その成果は株価や収益に影響を与える可能性があります。	이 프로젝트는 상장사인 <company_project_name>에서 진행 중입니다. 결과에 따라 주가와 수익에 영향을 줄 수 있습니다.			
-4170	Грошами тут вже не допомогти.	Грошами тут вже не допомогти.					
-4171	Factories, machines, vehicles, and big infrastructure projects like roads or railways.	Заводи, машини, транспорт і великі проєкти - дороги, тунелі, рейки.	工場、機械、車両、大規模なインフラ整備（道路や鉄道など）。	공장, 기계, 차량, 도로나 철도 같은 인프라 사업.			
-4172	Electronics, computers, gadgets, and everything built with circuits and screens.	Електроніка, комп'ютери, ґаджети, усе зі схемами та екранами.	電子機器、コンピューター、ガジェット、画面と回路の世界。	전자제품, 컴퓨터, 기기 등 모든 회로와 화면의 것들.			
-4173	Medicine production, health supplies, and chemical labs.	Виробництво ліків, аптечні товари, лабораторії.	薬の製造、医療用品、化学実験室など。	의약품 생산, 약국용 제품, 실험실 관련.			
-4174	Banks, investments, offices, and business services.	Банки, інвестиції, офіси, ділові послуги.	銀行、投資、オフィス、ビジネスサービス。	은행, 투자, 사무실, 비즈니스 서비스.			
-4175	Farming, fishing, food processing, and everyday goods - from rice fields to ramen cups.	Сільське господарство, рибальство, переробка продуктів і товари щоденного вжитку - від рисових полів до локшини у стаканчику.	農業、漁業、食品加工、そして日常品まで。田んぼからカップラーメンまで。	농업, 어업, 식품 가공, 일상용품까지 - 논밭에서 컵라면까지.			
-4176	Arcades, pachinko halls, manga, TV, clubs, and fun stuff in the city.	Ігрові автомати, пачінко, манґа, телебачення, клуби.	アーケード、パチンコ、マンガ、テレビ、ナイトクラブなど。	오락실, 파칭코, 만화, TV, 클럽 등 즐거운 것들.			
-4177	Coal, oil, power plants, and anything that keeps lights on.	Вугілля, нафта, електрика - усе, що тримає світло увімкненим.	石炭、石油、電力など、明かりを守るもの。	석탄, 석유, 전기 - 불을 밝히는 모든 것.			
-4178	Phones, TV shows, signal networks - everything that connects and entertains.	Телефони, телешоу, сигнальні мережі - все, що з'єднує і розважає.	電話、テレビ番組、通信網──つなぎ、楽しませるものすべて。	전화, TV 쇼, 통신망 - 사람들을 연결하고 즐겁게 하는 것들.			
-4179	City Hotel						
-4180	Office Building						
-4181	Electronics Workshop						
-4182	Cable Network						
-4183	Assembly Plant						
-4184	Cafe Bar						
-4185	Road Construction						
-4186	Manga Shop						
-4187	TV Studio						
-4188	Night Club						
-4189	Shopping Arcade						
-4190	Cold Pills						
-4191	Vitamin Line						
-4192	Pill Factory						
-4193	Medical Depot						
-4194	Research Lab						
-4195	Syrup Bottling						
-4196	Painkiller Line						
-4197	Herb Lab						
-4198	Boredom Pills						
-4199	Hangover Pills						
-4200	Placebo Plus						
-4201	Herb Dryer						
-4202	Processing Plant						
-4203	Bank Branch						
-4204	Payroll Office						
-4205	Credit Union						
-4206	Loan Agency						
-4207	Trading Room						
-4208	Quick Money						
-4209	Bond Office						
-4210	Tax Advisor						
-4211	Safe Deposit						
-4212	Small Loan Desk						
-4213	Pocket Savings Box						
-4214	Currency Check						
-4215	Tax Office						
-4216	Coin Sorting						
-4217	Monopoly Advisor						
-4218	Gas Plant						
-4219	Diesel Yard						
-4220	Power Substation						
-4221	Oil Pump						
-4222	Coal Depot						
-4223	Power Lines						
-4224	Fuel Trucks						
-4225	Backup Generator						
-4226	Eternal Flame						
-4227	Silent Generator						
-4228	Fuel Station						
-4229	Coal Plant						
-4230	Gas Turbine						
-4231	Nuclear Plant						
-4232	Battery Unit						
-4233	Hydro Station						
-4234	Tea Farm						
-4235	Fish Port						
-4236	Seaweed Dryer						
-4237	Fruit Orchard						
-4238	Tofu Plant						
-4239	Snack Factory						
-4240	Rice Field						
-4241	Broadcast Tower						
-4242	Phone Line						
-4243	TV Studio						
-4244	Show Floor						
-4245	Radio Booth						
-4246	Drama TV						
-4247	Late Night Show						
-4248	Dance Contest						
-4249	Dating Program						
-4250	Idol Search						
-4251	Talent Show						
-4252	Call-In Line						
-4253	Radio Drama						
-4254	Radio Advice						
-4255	Radio Mix						
-4256	I've got this weird method, might help the outcome?	тип 0					
-4257	Want me to tweak the build plan a bit? I've got an idea.						
-4258	I simplified the plan on a napkin. Want to use it?						
-4259	If you're fine with modest returns, I can make it very reliable.	тип 1					
-4260	I can optimize the internal logic.						
-4261	It'll be done faster, and safer.						
-4262	Trust me, I can make it trend. Big if true.	тип 2					
-4263	I know a guy at the radio. Want to make some noise?						
-4264	How about I get this on local TV? My buddy can run a spot.						
-4265	Don't thank me. Just follow my lead.	тип 3					
-4266	We can polish every corner. No shortcuts.						
-4267	Quality over speed.						
-4268	I-I think we should double-check everything…?	тип 4					
-4269	I'll try not to ruin it...						
-4270	I could help keep the process steady... if you want.						
-4271	The data says go bold. You listening?	тип 5					
-4272	If I were you, I'd risk it for better returns.						
-4273	I can reduce the dumb mistakes if you let me fix things.						
-4274	Want this to look amazing? Let me spread it around.	тип 6					
-4275	I'll call someone important. You're fine with less cut, right?						
-4276	I can bring in a few more backers, no problem.						
-4277	If this works, everyone will know your name.	тип 7					
-4278	Let's push the boundaries. It'll matter in the industry.						
-4279	A safe win won't get attention. Let's aim higher.						
-4280	Expectations	Очікування					
-4281	Sabotage	Саботаж					
-4282	Additional investment	Додаткова інвестиція					
-4283	Project info	Проект					
-4284	Do you want to adjust this investment for {_price}? You can only do this once.						
-4285	Days Until Return						
-4286	Profit Potential						
-4287	Market Reaction						
-4288	A 'helpful' contact might make things worse. Use with caution.						
-4289	You can no longer impact this investment.	Ви більше не можете впливати на цю інвестицію.		
+4154	运气					
+4155	大				
+4156	小				
+4157	没有运气					
+4158	<companyname> 已批准 <size>:1 的拆股，以提高流动性并吸引投资者。
+4159	基于强劲的市场表现，<companyname> 决定实施 <size>:1 的拆股。
+4160	<companyname> 股票将按 <size>:1 进行拆分。交易将持续正常进行。
+4161	由于需求疲软，<companyname> 实施 1:<size> 的并股。
+4162	由于股价下跌，<companyname> 以 1:<size> 的比例合并股份。
+4163	董事会批准对 <companyname> 实施 1:<size> 的并股，以稳定股价。
+4164	随着交易量增加，市场表现出乐观反应。
+4165	股票遭遇抛售压力，投资者表现出担忧情绪。
+4166	通过并股操作，<companyname> 得以继续在交易所上市。
+4167	您的持股数量已增加至原来的 <size> 倍。每股价格相应降低，但您的总投资价值保持不变。
+4168	您的持股数量已减少至原来的 1/<size>。 每股价格相应提高，但总投资价值保持不变。
+4169	这是上市公司 <company_project_name> 的一个项目。其表现可能会影响公司的股价和盈利。
+4170	这事已经不是钱能解决的了。					
+4171	工厂，机器，车辆，以及像道路或铁路这样的大型基础设施项目。
+4172	电子设备，计算机，小装置，还有所有带有电路和屏幕的产品。
+4173	药物生产，医疗用品和化学实验室。		
+4174	银行，投资，办公场所和商业服务。
+4175	农业，渔业，食品加工，以及日常用品——从稻田到杯面。
+4176	街机厅，弹珠厅，漫画，电视，俱乐部，还有其他城市里好玩的东西。			
+4177	煤炭, 石油, 发电厂，以及所有维持灯光亮起的东西。
+4178	手机，电视节目，信号网络——一切连接并带来娱乐的事物。
+4179	城市酒店						
+4180	办公大楼					
+4181	电子车间						
+4182	有线网络						
+4183	装配厂						
+4184	咖啡厅						
+4185	道路建设					
+4186	漫画店					
+4187	电视演播室					
+4188	夜店						
+4189	购物商场					
+4190	感冒药						
+4191	维生素生产线						
+4192	药丸厂					
+4193	医疗仓库						
+4194	研究实验室						
+4195	糖浆灌装					
+4196	止痛药生产线					
+4197	草药研究室						
+4198	解闷药					
+4199	解酒药						
+4200	安慰剂增强版						
+4201	草药烘干机					
+4202	加工厂						
+4203	银行分行					
+4204	薪资办公室					
+4205	信用合作社						
+4206	贷款机构				
+4207	交易室						
+4208	快钱						
+4209	债券办公室				
+4210	税务顾问					
+4211	保险箱						
+4212	小额贷款柜台					
+4213	便携储蓄盒					
+4214	货币核对					
+4215	税务局					
+4216	硬币分类						
+4217	垄断顾问						
+4218	燃气厂						
+4219	柴油厂
+4220	变电站					
+4221	油泵						
+4222	贮煤场						
+4223	电力线路					
+4224	燃料运输车					
+4225	备用发电机						
+4226	永恒火焰					
+4227	静音发电机						
+4228	加油站						
+4229	煤炭发电厂						
+4230	燃气轮机					
+4231	核能发电厂						
+4232	电池单元						
+4233	水电站						
+4234	茶园						
+4235	渔港					
+4236	海带烘干机						
+4237	果园						
+4238	豆腐工厂					
+4239	零食工厂						
+4240	稻田						
+4241	广播塔						
+4242	电话线路						
+4243	电视演播室						
+4244	展示区						
+4245	广播间						
+4246	电视剧频道						
+4247	深夜秀					
+4248	舞蹈比赛						
+4249	相亲节目					
+4250	偶像选拔					
+4251	才艺秀					
+4252	热线电话						
+4253	广播剧					
+4254	电台咨询						
+4255	电台混音						
+4256	我有一个奇怪的方法，或许派的上用场？	тип 0					
+4257	想让我稍微调整一下建设计划吗？我有个主意。						
+4258	我在餐巾纸上简化了个计划，想试试看吗？					
+4259	如果你能接受回报不高，我可以让它非常稳定。	тип 1					
+4260	我可以优化内部逻辑。					
+4261	这将会完成得更快，也更安全。						
+4262	相信我，我能让它火起来。如果是真的就不得了了。	тип 2					
+4263	我认识一个电台那边的人。想不想弄点动静？					
+4264	要不我帮你把这事搞上本地电视？我朋友可以帮忙做个宣传。						
+4265	不用谢我，跟着我做就行。	тип 3					
+4266	我们可以把每个细节打磨得完美，绝不走任何捷径。						
+4267	质量胜于速度。					
+4268	我……我觉得我们应该再仔细检查一遍……？	тип 4					
+4269	我尽量不把它搞砸……						
+4270	我可以保持流程稳定……如果你需要的话。						
+4271	数据表明我们要大胆点。你在听吗？	тип 5					
+4272	如果我是你，我会冒险争取更高回报。					
+4273	如果你让我来处理，我可以减少那些愚蠢的错误。						
+4274	想让它看起来超赞？让我来帮你推广一下！	тип 6					
+4275	我会找一位重要人物。你能接受少点分成，对吧？						
+4276	我能帮你拉几个支持者，没问题。					
+4277	这如果成了，所有人都会知道你的名字。	тип 7					
+4278	让我们突破极限。这将在行业产生重大影响。						
+4279	稳妥的胜利得不到关注。我们把目标定高点。					
+4280	期望				
+4281	破坏				
+4282	追加投资					
+4283	项目信息					
+4284	你想花 {_price} 调整这笔投资吗？机会仅限一次。						
+4285	距离回报天数						
+4286	盈利潜力						
+4287	市场反应					
+4288	“热心”的联系人可能会让情况更糟，请谨慎使用。					
+4289	你已无法再影响这笔投资。
